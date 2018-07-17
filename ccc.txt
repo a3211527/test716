@@ -1,4 +1,8 @@
 ccccc
 abcdefg
 add dev
+<<<<<<< HEAD
 add other msg
+=======
+new msg
+>>>>>>> featurel
